@@ -8,6 +8,6 @@ Test Project Using Node Js , Express , Typescript , Mongo DB, Mongoose , Chai
 06 run gulp
 07 run npm start 
 08 test using postman / chai
-* port is 3000
+* port is 1234
 * token outhentication is implemented.
 
